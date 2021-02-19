@@ -37,7 +37,7 @@ Hit the deploy to heroku button and follow the further instructions in the scree
 
 **NB: This may lead to the suspension of your heroku account so deploy at your own risk.**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/imsawankumar/Torrent-Mirror-Bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/spilgt/Torrent-Mirror-Bot-1)
  
 
 ## Getting Google OAuth API credential or SECRET_JSON
